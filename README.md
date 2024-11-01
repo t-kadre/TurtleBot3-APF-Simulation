@@ -39,7 +39,7 @@ This repository contains ROS packages for controlling a robot model TurtleBot3 B
     ```bash
     source devel/setup.bash
 
-6. **Set Executable Permissions**: Navigate to the APF_simulation package folder and then to the CMakeLists.txt file to set executable permissions for the required cpp      scripts. Add the following lines:
+6. **Set Executable Permissions**: Navigate to the APF_Simulation_Packages folder and then to the CMakeLists.txt file to set executable permissions for the required cpp scripts. Add the following lines:
    
     ```bash
     add_executable(mynode_11 src/scripts/mynode_03.cpp)
