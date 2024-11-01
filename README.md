@@ -26,7 +26,7 @@ This repository contains ROS packages for controlling a robot model TurtleBot3 B
 
 3. **Clone the Repository**: Clone this repository into the `src` directory of your ROS workspace.
     ```bash
-    git clone https://github.com/samarthag06/Darwin-and-Turtlebot-simulation.git
+    git clone https://github.com/t-kadre/TurtleBot3-APF-Simulation.git
     ```
 
 4. **Build the Workspace**: Build the ROS workspace using `catkin_make`.
